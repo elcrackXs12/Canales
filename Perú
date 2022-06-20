@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="PERU",PERU| LATINA HD
-http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208731
+#EXTINF:-1 tvg-id="ext" group-title="PERU",PERU| LATINA HD
+http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| AMERICA TV HD
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208732
