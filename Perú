@@ -1,69 +1,49 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="PERU",*****Peru*****
 
-
 #EXTINF:-1 tvg-id="ext" group-title="PERU",PERU| LATINA HD
 http://177.53.152.186:8000/play/a019/index.m3u8
-
 
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| AMERICA TV HD
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208732
 
-
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| ATV HD
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208739
-
 
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| PANAMERICANA HD
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208728
 
-
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| NEXT TV HD
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208729
-
 
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| MOVISTAR DEPORTES HD
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208730
 
-
-#EXTINF:0 tvg-id="ext" group-title="PERU",PERU| GOLTV PERU HD*
-http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208735
-
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| RPP HD
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208737
-
 
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| DIRECTV SPORTS FHD*
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208738
 
-
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| EXITOSA HD
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208740
-
-
-#EXTINF:0 tvg-id="ext" group-title="PERU",PERU| CANAL N HD
-http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208741
-
 
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| BEST CABLE SPORTS HD
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208742
 
-
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| LA TELE HD
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208743
-
 
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| M. PLUS TV HD
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208744
 
-
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| TV PERU
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208745
-
 
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| CANAL IPE HD
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208746
 
-
 #EXTINF:0 tvg-id="ext" group-title="PERU",PERU| WILLAX HD
 http://unchetaiber.site:2082/Josemariaparra/B4eLE8T8Sqsu/208747
+
+
